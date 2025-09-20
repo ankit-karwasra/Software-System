@@ -1,0 +1,3 @@
+dup()
+dup2()
+fcntl()
